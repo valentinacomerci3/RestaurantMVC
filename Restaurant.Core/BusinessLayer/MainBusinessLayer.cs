@@ -89,7 +89,7 @@ namespace Restaurant.Core.BusinessLayer
 
         }
 
-        public IEnumerable<Dish> FetchDishs()
+        public IEnumerable<Dish> FetchDishes()
         {
             return dishRepository.FetchAll();
         }

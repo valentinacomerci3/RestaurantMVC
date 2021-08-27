@@ -82,3 +82,13 @@ C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant\bin\Debug\net5.0\R
 C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.EF.pdb
 C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant\bin\Debug\net5.0\Humanizer.dll
 C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Account\Forbidden.cshtml.g.cs
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Dish\Create.cshtml.g.cs
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Dish\Delete.cshtml.g.cs
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Dish\Details.cshtml.g.cs
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Dish\Edit.cshtml.g.cs
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Dish\Index.cshtml.g.cs
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Shared\_DishInfo.cshtml.g.cs
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Shared\_Form.cshtml.g.cs

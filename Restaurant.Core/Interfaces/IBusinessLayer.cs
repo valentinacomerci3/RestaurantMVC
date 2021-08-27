@@ -7,7 +7,7 @@ namespace Restaurant.Core.Interfaces
 {
     public interface IBusinessLayer
     {
-        IEnumerable<Dish> FetchDishs();
+        IEnumerable<Dish> FetchDishes();
         Dish GetDishById(int id);
         DishResult AddNewDish(Dish newEmp);
         DishResult EditDish(Dish data);

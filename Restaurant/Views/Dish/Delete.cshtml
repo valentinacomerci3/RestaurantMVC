@@ -1,0 +1,13 @@
+﻿@model Restaurant.Core.Models.Dish
+
+<h1>Delete</h1>
+
+<br />
+<form method="post">
+    <partial name="_InfoEmployee" model="Model" />
+
+    <br />
+
+    <input type="submit" class="btn btn-outline-danger" value="Delete" />
+    <a class="btn btn-info" asp-controller="Dish" asp-action="Index">Back</a>
+</form>

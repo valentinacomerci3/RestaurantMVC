@@ -1,0 +1,19 @@
+﻿@model AccountViewModel
+<form method="post">
+    <div asp-validation-summary="All"></div>
+
+    <input type="hidden" asp-for="ReturnUrl" />
+
+    <label asp-for="Username"></label>
+    <input asp-for="Username" />
+    <span asp-validation-for="Username"></span>
+
+    <label asp-for="Password"></label>
+    <input asp-for="Password" />
+    <span asp-validation-for="Password"></span>
+
+    <br />
+
+    <input type="submit" value="Login" class="btn btn-primary" />
+
+</form>
