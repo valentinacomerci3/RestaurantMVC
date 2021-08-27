@@ -1,0 +1,12 @@
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.EF\bin\Debug\netstandard2.1\Restaurant.Core.dll
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.EF\obj\Debug\netstandard2.1\Restaurant.EF.csprojAssemblyReference.cache
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.EF\obj\Debug\netstandard2.1\Restaurant.EF.AssemblyInfoInputs.cache
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.EF\obj\Debug\netstandard2.1\Restaurant.EF.AssemblyInfo.cs
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.EF\obj\Debug\netstandard2.1\Restaurant.EF.csproj.CoreCompileInputs.cache
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.EF\bin\Debug\netstandard2.1\Restaurant.EF.deps.json
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.EF\bin\Debug\netstandard2.1\Restaurant.EF.dll
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.EF\bin\Debug\netstandard2.1\Restaurant.EF.pdb
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.EF\bin\Debug\netstandard2.1\Restaurant.Core.pdb
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.EF\obj\Debug\netstandard2.1\Restaurant.EF.csproj.CopyComplete
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.EF\obj\Debug\netstandard2.1\Restaurant.EF.dll
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.EF\obj\Debug\netstandard2.1\Restaurant.EF.pdb

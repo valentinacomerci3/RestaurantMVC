@@ -1,0 +1,9 @@
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.Core\obj\Debug\netstandard2.1\Restaurant.Core.csprojAssemblyReference.cache
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.Core\obj\Debug\netstandard2.1\Restaurant.Core.AssemblyInfoInputs.cache
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.Core\obj\Debug\netstandard2.1\Restaurant.Core.AssemblyInfo.cs
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.Core\obj\Debug\netstandard2.1\Restaurant.Core.csproj.CoreCompileInputs.cache
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.Core\bin\Debug\netstandard2.1\Restaurant.Core.deps.json
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.Core\bin\Debug\netstandard2.1\Restaurant.Core.dll
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.Core\bin\Debug\netstandard2.1\Restaurant.Core.pdb
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.Core\obj\Debug\netstandard2.1\Restaurant.Core.dll
+C:\Users\valentina.comerci\source\repos\Restaurant\Restaurant.Core\obj\Debug\netstandard2.1\Restaurant.Core.pdb
